@@ -9,3 +9,4 @@ The project contains translations for the text used in https://turtlecoin.lol/
 3. Copy files under `english` to it.
 4. Translate the content of those files. 
 5. Create a pull request to merge your fork into this repository.
+6. Find a reviewer to approve the copy from the community. This is mainly to ensure that the best copy goes in.
