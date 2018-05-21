@@ -1,0 +1,27 @@
+# Page Meta
+
+1. TurtleCoin adalah cara yang menyenangkan untuk mengirim uang secara pribadi ke teman atau rekan bisnis. TurtleCoin adalah cryptocurrency open source yang dikembangkan oleh komunitas yang mudah untuk ditambang, dan memiliki GUI Wallet.
+2. TurtleCoin.lol - TurtleCoin adalah mata uang Crypto yang Menyenangkan, Cepat, dan Mudah.
+3. TurtleCoin adalah cara yang menyenangkan, cepat, dan mudah untuk mengirim uang ke teman dan rekan bisnis.
+4. TurtleCoin | Halaman Depan
+
+
+# Navbar
+
+1. Beranda
+2. Unduh
+3. Fitur
+4. Riwayat
+5. Spesifikasi
+6. Peta pengembangan
+7. Dukungan
+8. Alihkan navigasi
+
+
+# Bagian - Kontak
+
+1. Masih Tertarik?
+2. Kami butuh bantuan! Bergabunglah dengan kami! Serius! Apapun keahlian Anda, atau ide yang Anda miliki, kami siap mendengarkannya!
+3. Bergabunglah dengan kami di Discord
+4. Bergabunglah dengan kami di GitHub
+5. Terima Kasih!
