@@ -1,0 +1,101 @@
+Page: https://turtlecoin.lol/
+
+# Section - banner
+
+1. TurtleCoin Cepat
+2. TurtleCoin Mudah
+3. TurtleCoin Aman
+4. TurtleCoin adalah metode baru untuk mengirimkan uang ke teman dan rekan bisnis dengan cara yang menyenangkan, cepat, dan mudah.
+5. Unduh
+6. <strong> Kami memiliki aplikasi untuk Windows, Apple, dan Ubuntu Linux. </ strong> Jika Anda lebih suka <strong> Source Code </ strong>, Anda dapat menemukannya di <a href="https://github.com/turtlecoin/turtlecoin/"> di sini </a>, tetapi Anda juga harus hubungi kami <a href="http://chat.turtlecoin.lol"> di sini </a> karena kami mencari orang-orang seperti Anda untuk bergabung dengan kami.
+
+
+# Section - Download TurtlCoin
+
+1. Pilih Sistem Anda
+2. Unduh Terbaru
+3. Unduh GUI
+4. Unduh CLI
+
+# Section - Fun facts
+
+1. Fakta Fun Turtle
+2. TurtleCoin memiliki waktu blok 30 detik, yang berarti transaksi dikonfirmasi lebih cepat.
+3. TurtleCoin memiliki blockchain pribadi, tidak ada yang melihat uang Anda kecuali Anda sendiri.
+4. Anda dapat menyelamatkan dompet TurtleCoin yang dihapus dengan ( view key ) dan ( spend key ) Anda.
+
+# Section - Why TurtleCoin?
+
+1. Mengapa TurtleCoin?
+2. Transaksi Cepat
+3. TurtleCoin membuat blok setiap 30 detik, dibandingkan setiap 10 menit. Uang akan berjalan 20x lebih cepat di TurtleCoin daripada Bitcoin atau BitcoinCash.
+4. Privasi
+5. TurtleCoin memiliki fitur privasi yang sama yang akan Anda temukan di Monero dan Aeon. Setiap transaksi bersifat pribadi kecuali Anda memilih untuk membuatnya menjadi publik / diketahui orang lain.
+6. Mudah Digunakan
+7. Kami mendukung hampir setiap OS, bahkan di ponsel Anda dapat <a href="http://turtlecoin.lol/wallet"> membuat paper wallet secara aman dan gratis </a>, dan memulai menggunakan TurtleCoin di bawah 5 menit.
+8. Mudah Untuk menambang
+9. TurtleCoin hadir dengan penambang CPU nya sendiri, tetapi Anda juga dapat menggunakan perangkat lunak lain seperti Monero yang biasa Anda gunakan jika Anda lebih suka menggunakan pool atau GPU. Kami merekomendasikan <a href="https://github.com/fireice-uk/xmr-stak/releases/latest"> XMR-Stak Unified Miner </a>.
+10. Komunitas
+11. Komunitas TurtleCoin sangat ramah kepada semua pengguna dan pengembang. Anda tidak akan diteriaki ketika hal buruk terjadi, dan kami menyambut kritik dari pekerjaan kami. Bergabunglah dengan kami di <a href="http://chat.turtlecoin.lol"> Discord Chat </a>.
+12. Dukungan
+13. Kami mengembangkan komunitas pengembang dan penguji di <a href="http://meta.turtlecoin.lol"> meta-forum GitHub </a> kami. Anda dapat membantu dengan menguji perangkat lunak dan mengirimkan laporan bug, atau bahkan hanya menyemangati kami.
+
+# Section - The story
+
+1. Kisah
+2. Cerita dibalik turtlecoin
+3. Sebagian besar Kontributor TurtleCoin memiliki jenggot yang tebal dan sedap dipandang. <strong> FAKTA. </ strong> </ h3>
+4. <em> Ini memberi kami kemampuan <strong> + 10xp Goresan dagu </ strong>, dan meningkatkan kesabaran dan kemampuan diagnosis kami. <i class = "far fa-smile"> </ i> </ em>
+5. Sebenarnya, kebanyakan dari kita adalah pengembang penuh waktu pada proyek lain, dan ini adalah cara kami untuk memberikan sesuatu kepada komunitas dengan cara yang menyenangkan.
+6. Bagaimana kami memulainya
+7. pada suatu malam yang dingin di bulan Desember, RockSteady dan Bebop sedang minum bir dan sedikit mabuk sambil membahas kegilaan di sekitar ICO palsu dan rapuh tanpa produk. Bebop menduga bahwa tidak mungkin untuk membuat proyek nyata sekarang tanpa tim yang serius, melakukan pemasaran yang serius, dan membawa pendanaan yang serius.
+8. RockSteady bersandar erat, mengelus janggutnya dengan saksama, dan mengatakan ..
+9. <strong> "Pegang bir saya." </ Strong>
+10. Malam itu, 9 Desember 2017, TurtleCoin lahir.
+12. Mengapa?
+13. Sangat banyak proyek yang mendatangkan <strong> terlalu banyak dana </ strong> meskipun sebagian besar memiliki <strong> produk jelek </ strong>. Kami pikir, "mengapa tidak melakukan semuanya secara terbalik? Mulailah dengan proyek yang menyenangkan, buatlah agar mudak diakses semua orang, dan biarkan harganya tumbuh sendiri.
+14. Kami memiliki keyakinan yang kuat dalam strategi tanpa pendanaan kami; jika kami membuat produk keren, <strong> maka nilainya akan tumbuh dengan sendirinya </ strong>. Jika Anda pikir kami salah, kami senang untuk <a href="http://meta.turtlecoin.lol"> berbicara </a> tentang hal itu.
+15. Seekor tikus bijak pernah berkata, "Seekor penyu hanya bergerak maju dengan menjulurkan lehernya .."
+
+# Section - The fine print
+
+1. The Fine Print
+2. Berikut adalah beberapa detail cepat tentang proyek ini.
+3. Rata-rata hadiah Block
+4. 1 Block setiap 30 detik
+5. Pengembang <br> <a href="http://chat.turtlecoin.lol"> Bergabunglah dengan Kami </a>
+6. Bergabunglah dengan Kami
+7. Tanpa Premine <br> Tanpa Shenanigans
+
+# Section  - Roadmap
+
+1. Hello Turtle
+2. TurtleCoin lahir <strong> 9 Desember 2017 </ strong>.
+3. Pada awalnya, kami hanya baris perintah, dijalankan hanya untuk Linux, dan dikeluarkan berulang kali dari forum online untuk memberikan hadiah TRTL.
+4. GUI Dompet
+5. TurtleCoin Community telah bekerja keras untuk menghadirkan pengalaman grafis yang beragam, serta menyegarkan dompet baris perintah juga. Sejak hari pertama, kami telah berkomitmen untuk membuat TurtleCoin lebih mudah, dan itu dimulai dengan GUI yang baik. Silakan pilih salah satu dompet berikut:
+6. Kemitraan 
+7. Kami berjanji untuk memiliki TurtleCoins kami menjadi perdagangan publik oleh Q2 2018, dan kami telah mencapai tujuan itu di beberapa pasar.
+8. Pengembangan Dimulai, pertengahan 2018
+9. Mobius, Fast Blocks No Sync
+10. Sakit kepala yang besar dengan bukti kerja menyinkronkan rantai besar, dan blok cepat biasanya tidak membantu masalah itu. Tujuan kami adalah memproduksi blok yang lebih cepat pada rantai yang lebih pendek. Ini mungkin merupakan tujuan paling agresif, dan akan membutuhkan bantuan paling banyak untuk diselesaikan.
+11. TBA (Akan diumumkan kemudian)
+12. Karai, Kontrak Cerdas Sederhana
+13. Jaringan terdistribusi dan tidak memiliki kepercayaan memiliki penggunaan di luar mata uang. Karai adalah tujuan kami untuk memungkinkan aplikasi dan jaringan terdistribusi di luar blockchain utama.
+14. Jaringan TurtlePay
+15. Apa gunanya ATM jika tidak berdekatan? Ketuk dan bayar adalah cara kuno; Ketuk dan hasilkan adalah cara masa depan. ATM Crypto terdekat Anda ada di saku Anda.
+
+# Section - Still Interested
+
+1. Kami butuh bantuan! Bergabunglah dengan kami! Serius! Apapun keahlian Anda, atau ide apa yang Anda miliki, kami siap mendengarkannya!
+2. Bergabunglah dengan kami di Discord
+3. Bergabunglah dengan kami di GitHub
+
+
+
+
+
+
+
+
+
